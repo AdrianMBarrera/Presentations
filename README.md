@@ -1,7 +1,7 @@
 Presentations
 =============
 
-By: [Adrián Muñoz-Barrera, PhD student](www.linkedin.com/in/adrianmbarrera)
+By: [Adrián Muñoz-Barrera, PhD student](http://www.linkedin.com/in/adrianmbarrera)
 
 Posters
 -------
